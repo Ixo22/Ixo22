@@ -2,7 +2,7 @@
 
 <h2 align="left"> I'm a Computer Science Student 💻 </h2>
 
-> _Faber est suae quisque fortunae._
+> "_Faber est suae quisque fortunae_"
 
 * I'm passionate about technology.  I love solving problems and creating innovative solutions.
 <br> I'm an enthusiastic about learning new things and meeting new people. 
