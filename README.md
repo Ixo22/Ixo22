@@ -32,6 +32,4 @@
 
 
 ## 📝 Portfolio 
-* <p align="left">
-      <a href="https://servitrasgu.com/" target="_blank" rel="noreferrer">Servitrasgu</a>
-
+* [Servitrasgu](https://servitrasgu.com/)
