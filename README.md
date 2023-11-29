@@ -1,6 +1,13 @@
-<h1 align="center"> Hi! I'm Alberto ✨. </h1>
+<h1 align="center"> Hi! I'm Alberto ✨ </h1>
 
 <h2 align="left"> I'm a Computer Science Student 💻 </h2>
+
+> _Faber est suae quisque fortunae._
+
+* I'm passionate about technology.  I love solving problems and creating innovative solutions.
+<br> I'm an enthusiastic about learning new things and meeting new people. 
+
+* Currently I'm finishing my Computer Science Degree at University of Burgos. 
 
 ## 📩 Connect with me ⬇️
 * Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
