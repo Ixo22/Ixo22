@@ -4,8 +4,8 @@
 
 > "_Faber est suae quisque fortunae_"
 
-* I'm passionate about technology.  I love solving problems and creating innovative solutions.
-<br> I'm an enthusiastic about learning new things and meeting new people. 
+* I am passionate about technology.  I love solving problems and creating innovative solutions.
+<br> I am an enthusiastic about learning new things and meeting new people. 
 
 * Currently I'm finishing my Computer Science Degree at University of Burgos. 
 
